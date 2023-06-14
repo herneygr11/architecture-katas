@@ -4,4 +4,4 @@ Este repositorio está diseñado para ofrecer un espacio donde podamos practicar
 
 ## Katas
 
-1. [Gestor de contraseñas](katas\password-manager.md)
+1. [Gestor de contraseñas](katas/password-manager.md)
