@@ -16,3 +16,10 @@ Sistema de gestión de contraseñas que permita a los usuarios almacenar y recup
 * Recuperar
 * Confidencialidad
 * Interfaz intuitiva
+
+## Contexto de la solución
+
+> Nota:
+   > Supongo que podemos hablar con representantes comerciales y otras partes interesadas y hacer preguntas y obtener respuestas.
+
+![Alt](/katas/password-manager/context_questions.svg)
