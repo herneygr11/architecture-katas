@@ -4,6 +4,7 @@
 
 * [Enunciado](#enunciado)
 * [Palabras claves](#palabras-claves)
+* [Contexto de la solución](#contexto-de-la-solución)
 
 ## Enunciado
 
@@ -23,3 +24,11 @@ Sistema de gestión de contraseñas que permita a los usuarios almacenar y recup
    > Supongo que podemos hablar con representantes comerciales y otras partes interesadas y hacer preguntas y obtener respuestas.
 
 ![Alt](/katas/password-manager/context_questions.svg)
+
+## Requisistos funcionales (Requisitos significativos)
+
+## Requisitos no funcionales
+
+## Atributos de calidad
+
+## Vista de contexto
