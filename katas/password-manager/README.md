@@ -5,6 +5,7 @@
 * [Enunciado](#enunciado)
 * [Palabras claves](#palabras-claves)
 * [Contexto de la solución](#contexto-de-la-solución)
+* [Radar de requisitos](#radar-de-requisitos)
 
 ## Enunciado
 
@@ -24,6 +25,12 @@ Sistema de gestión de contraseñas que permita a los usuarios almacenar y recup
    > Supongo que podemos hablar con representantes comerciales y otras partes interesadas y hacer preguntas y obtener respuestas.
 
 ![Alt](/katas/password-manager/context_questions.svg)
+
+## Radar de requisitos
+
+Preguntas para identificar los requisitos funcionales y no funcionales clave del sistema
+
+![Alt](/katas/password-manager/requirements_radar.svg)
 
 ## Requisistos funcionales (Requisitos significativos)
 
